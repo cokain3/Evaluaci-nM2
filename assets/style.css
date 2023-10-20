@@ -1,0 +1,19 @@
+#lista {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    background-color: purple;
+    border-color: black;
+    border-style: dashed;
+    cursor: alias;
+}
+
+#caja {
+    position: absolute;
+    top: 115px;
+    left: 250px;
+    background-color: yellow;
+    border-radius: 100px;
+    z-index: auto;
+    cursor: all-scroll;
+}
